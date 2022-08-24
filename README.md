@@ -2,7 +2,7 @@
 
 ## The big picture
 
-## General guidance
+# Algebra and Physics
 
-## 
+
 
